@@ -1,0 +1,7 @@
+ollama
+pandas
+numpy
+llama-cpp-python
+rouge-score
+pycocotools
+pycocoevalcap

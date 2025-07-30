@@ -39,7 +39,7 @@ The final performance of the models on each task is summarized below.
 | Task | Model | Metric | Score | Avg. Inference Time (s/item) | Reject Rate (%) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Story Gen.** | `llama3.2:3b` | Perplexity | 2.97 | 66.19s | 0.00% |
-| | `qwen2.5vl:3b` | Perplexity | **2.62** | 72.44s | 0.00% |
+| | `qwen2.5:3b` | Perplexity | **2.62** | 72.44s | 0.00% |
 | **Summarization** | `llama3.2:3b` | ROUGE-1 F1| 0.4667 | 40.72s | 0.00% |
 | | `qwen2.5vl:3b`| ROUGE-1 F1| **0.5630** | 73.19s | 0.00% |
 | **NLI** | `llama3.2:3b` | Accuracy | 56.00% | 16.13s | 0.00% |
